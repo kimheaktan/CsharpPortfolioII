@@ -1,0 +1,35 @@
+{
+  "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/PortfolioII/PortfolioII.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "PortfolioII",
+  "Documents": [
+    {
+      "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/PortfolioII/Views/Home/Home.cshtml",
+      "TargetPath": "Views\\Home\\Home.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/PortfolioII/Views/Home/Projects.cshtml",
+      "TargetPath": "Views\\Home\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/user/coding dojo/csharpNew/asp1_Mvc/PortfolioII/Views/Home/Contact.cshtml",
+      "TargetPath": "Views\\Home\\Contact.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
